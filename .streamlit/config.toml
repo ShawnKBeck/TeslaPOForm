@@ -1,0 +1,10 @@
+[general]
+title = "Tesla Invoice Data Entry"
+favicon = "path/to/favicon.ico"
+
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#1E1E1E"
+secondaryBackgroundColor = "#2D2D2D"
+textColor = "#CCCCCC"
+font = "sans serif"
